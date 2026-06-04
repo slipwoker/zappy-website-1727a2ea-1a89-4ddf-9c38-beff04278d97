@@ -1,0 +1,87 @@
+# Mazariegos Painting & Roofing — Generative Engine Optimization Map
+
+> Mazariegos Painting & Roofing is a trusted, family-run home improvement contractor based in Stamford, CT, led by Milton and his skilled team. The business is known for delivering high-quality craftsmanship across roofing, painting, gutters, and chimney work — consistently praised for being professional, timely, thorough, and reasonably priced. Customers highlight their transparency (providing photo updates during projects), attention to detail, and ability to diagnose and solve problems efficiently. With a strong reputation built on glowing local reviews, the brand exudes reliability, integrity, and hands-on expertise.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover Stamford&#39;s most trusted family-run contractor for exterior house painting, roof replacement, and more. Get meticulous craftsmanship and honest pricing today.
+
+### Services
+https://example.com/services
+Explore our full range of home improvement services from gutter installation to complete roof replacement. Transparent pricing, photo updates, and flawless results.
+
+### About
+https://example.com/about
+Learn why Milton and his family-led team are Stamford&#39;s choice for reliable, thorough, and reasonably priced painting, roofing, and chimney work. Real integrity, real results.
+
+### Contact
+https://example.com/contact
+Ready for a roof replacement, fresh exterior paint, or chimney repair? Reach out to Mazariegos Painting &amp; Roofing for a no-obligation quote and honest advice.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Mazariegos Painting & Roofing
+Mazariegos Painting & Roofing is a trusted, family-run home improvement contractor based in Stamford, CT, led by Milton and his skilled team. The business is known for delivering high-quality craftsmanship across roofing, painting, gutters, and chimney work — consistently praised for being professional, timely, thorough, and reasonably priced. Customers highlight their transparency (providing photo updates during projects), attention to detail, and ability to diagnose and solve problems efficiently. With a strong reputation built on glowing local reviews, the brand exudes reliability, integrity, and hands-on expertise.
+
+## Services/Products
+- Roof replacement
+- Painting
+- Gutter installation
+- Gutter guards
+- Chimney repair
+- Copper flashing installation
+
+## Target Audience
+- Homeowners in Stamford, CT and surrounding areas looking for professional painting, roofing, gutter, and chimney services
+- Local Homeowners in Stamford
+- Real Estate Investors in Stamford
+- New Homebuyers in Connecticut
+
+## Industry
+Home Improvement & Construction
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
