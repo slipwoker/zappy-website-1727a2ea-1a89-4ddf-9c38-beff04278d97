@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 1-914-648-5622
+- Phone (tel): tel:19146485622
+- Address: 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 ### Contact form
 - URL: https://example.com/contact

@@ -543,9 +543,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -1059,9 +1059,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -1534,9 +1534,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -1703,9 +1703,9 @@ Send Request
 
 - Mazariegos Painting & Roofing
 
-- 13 Sylvandale Ave, Stamford, CT 06902, United States
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
-- [business_phone]
+- 1-914-648-5622
 
 - [business_email]
 
@@ -1988,9 +1988,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -2194,9 +2194,9 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 1-914-648-5622
 
-- Address: [business_address]
+- Address: 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -2245,9 +2245,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -2459,7 +2459,7 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 1-914-648-5622
 
 
 
@@ -2508,9 +2508,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -2745,9 +2745,9 @@ For questions or clarifications regarding the terms of use:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 1-914-648-5622
 
-- Address: [business_address]
+- Address: 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
@@ -2793,9 +2793,9 @@ Premium painting and roofing services you can trust. Craftsmanship that lasts, t
 
 - [business_email]
 
-- [business_phone]
+- 1-914-648-5622
 
-- [business_address]
+- 13 Sylvandale Ave, Stamford, CT, 06902, US
 
 
 
